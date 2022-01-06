@@ -155,6 +155,7 @@ p{
 
 .t-text-side p{
     margin: 60px 0;
+    padding-right: 140px;
 }
 
 
@@ -165,4 +166,50 @@ p{
     display: flex ;
     flex-direction: row-reverse;
     margin-top: 200px;
+}
+
+
+/* app area */
+.app{
+    margin-top: 200px;
+}
+.app-container{
+    display: flex;
+}
+.title-app{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.app-container img{
+    width 20%;
+}
+
+.app-text{
+    padding-top: 200px;
+}
+
+
+/* black footer */
+
+.black{
+    background-color: #0B0D17;
+    height: 180px;
+    padding: 10px 0px;
+    
+}
+.black h1{
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    text-align: center;    
+    line-height: 3px;
+}
+.black p{
+    color: white;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 20px;
+    text-align: center;    
+    font-weight: lighter;
+    
 }
