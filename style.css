@@ -1,0 +1,90 @@
+/*color  #D00003
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive;
+*/
+body{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #3E3E3E;
+    font-size: 18px;
+}
+
+.container{
+    width: 78%;
+    margin: 0 auto;
+}
+
+.top-area{
+    display: flex;
+    margin: 100px 0px;;
+}
+
+.half-width{
+    width: 50%;
+   
+}
+
+/*Header texts*/
+.heading-area{
+    display: flex;
+}
+.left-border{
+    background-color: #D00003;
+    height: 110px;
+    border: 3px solid #D00003;
+    margin: 45px 20px 0px 0px;
+    border-radius: 5px;
+}
+.heading-text{
+    padding-top: 10px;
+    margin-top: 0;
+    height: 120px;
+    
+
+}
+.big-line{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    font-weight: 100;
+    color: #333333;
+    line-height: 20px;
+}
+
+.red{
+    color: #D00003; 
+}
+
+.top-text-side{
+    padding:100px 400px 0px 0px;
+}
+
+.press-left{
+    padding-right: 100px;
+    margin: 40px 0px;
+}
+
+.link-btn{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #D00003;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+
+/*Avatar on the top banner*/
+.top-picture-side{
+    display: flex;
+    justify-content: center;
+    /* background-color: aquamarine; */
+    margin-top: 70px;
+}
+.top-avatar{
+    width: 100%;
+}
+
+
